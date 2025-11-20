@@ -21,6 +21,8 @@
     align-items: center;
 }
 
-h1 {
-    margin: 0 auto;
+.btn {
+    padding: 0 10px 0 10.px;
+    font-weight: bold;
+    letter-spacing: 4px;
 }
